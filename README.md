@@ -2,9 +2,8 @@
 ##### Invoice program.
 - See [Invoice Code](./Invoice.java)
 **Output Screenshot**
-  [./outputs/invoiceOutput.png]
-
+  ![Invoice Output](./outputs/invoiceOutput.png)
 ##### Student MarkSheet.
 - See [Student MarkSheet Code](./StudentScoreSheet.java)
 **Output Screenshot**
-  [./outputs/marksheet.png]
+  ![MarkSheet Output](./outputs/marksheet.png)
