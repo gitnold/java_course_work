@@ -1,4 +1,4 @@
-public class Invoice {
+public class Invoice2 {
     public static void main(String[] args) {
         System.out.println("    Bill To:                                            Ship To:");
         System.out.println("""  
